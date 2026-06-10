@@ -1,0 +1,177 @@
+[
+  {
+    "nombre": "3DP Net (Red Offline",
+    "carpeta": "3DPNet-Detecta tarjetas de red y provee el controlador más adecuado",
+    "ejecutable": "3DP_Net.exe",
+    "desc_n": "Instala controladores de red y Wi-Fi sin tener internet.",
+    "desc_e": "[Autor: 3DP] Despliega un instalador offline de adaptadores Ethernet y Wi-Fi PnP."
+  },
+  {
+    "nombre": "7-Zip (Compresor)",
+    "carpeta": "7-zip",
+    "ejecutable": "7-Zip x64.exe",
+    "desc_n": "Comprime y extrae archivos pesados (.zip, .rar, .7z).",
+    "desc_e": "[Autor: Igor Pavlov] Gestor de archivos con potente motor de compresión LZMA/LZMA2."
+  },
+  {
+    "nombre": "AnyDesk (Soporte Remoto)",
+    "carpeta": "AnyDesk-Escritorio remoto",
+    "ejecutable": "AnyDesk.exe",
+    "desc_n": "Controla computadoras a distancia de forma rápida.",
+    "desc_e": "[Autor: AnyDesk] Herramienta de acceso remoto con protocolo DeskRT y bypass NAT."
+  },    
+  {
+    "nombre": "Autoruns (Auditor de Inicio)",
+    "carpeta": "Autoruns_v14.11",
+    "ejecutable": "Autoruns.exe",
+    "desc_n": "Muestra absolutamente todo lo que inicia con Windows. Ideal para cazar virus.",
+    "desc_e": "[Autor: Sysinternals] Audita claves Run, servicios, tareas y extensiones (ASEPs) en el arranque."
+  },
+  {
+    "nombre": "Bat To Exe Converter",
+    "carpeta": "BatToExePortable",
+    "ejecutable": "Bat_To_Exe_Converter.exe",
+    "desc_n": "Convierte scripts de texto (.bat) en programas ejecutables (.exe).",
+    "desc_e": "[Autor: Fatih Kodak] Compilador de scripts Batch a binarios independientes PE32/PE64."
+  },
+  {
+    "nombre": "BlueScreenView (Visor BSOD)",
+    "carpeta": "BlueScreenView",
+    "ejecutable": "BlueScreenView.exe",
+    "desc_n": "Descubre qué archivo o pieza física causó un pantallazo azul.",
+    "desc_e": "[Autor: NirSoft] Escanea volcados Minidump y localiza el driver causante del kernel panic."
+  },
+  {
+    "nombre": "CDInfo (Diagnóstico Óptico)",
+    "carpeta": "CDInfo",
+    "ejecutable": "CDInfo.exe",
+    "desc_n": "Muestra información de unidades de CD/DVD conectadas.",
+    "desc_e": "[Autor: Desconocido] Extrae firmware y telemetría de unidades ópticas ATAPI/SATA."
+  },
+  {
+    "nombre": "Command Prompt (CMD Portable)",
+    "carpeta": "CommandPrompt",
+    "ejecutable": "CommandPromptPortable.exe",
+    "desc_n": "Abre una consola negra de comandos de Windows de forma portátil.",
+    "desc_e": "[Autor: Microsoft] Intérprete de línea de comandos Win32 operando en entorno aislado."
+  },
+  {
+    "nombre": "Convertidor de Archivos",
+    "carpeta": "Convert",
+    "ejecutable": "Convert.exe",
+    "desc_n": "Convierte el formato y la extensión de tus archivos.",
+    "desc_e": "[Autor: Desconocido] Utilidad portátil de transcodificación y conversión de formatos."
+  },
+  {
+    "nombre": "Dead Pixel Tester",
+    "carpeta": "Dead Pixel Tester",
+    "ejecutable": "DPT.exe",
+    "desc_n": "Encuentra píxeles muertos o atascados en la pantalla de tu monitor.",
+    "desc_e": "[Autor: DataProductServices] Renderiza patrones RGB para auditar defectos en matrices LCD/LED."
+  },
+  {
+    "nombre": "FAT32 Formatter",
+    "carpeta": "FAT32 Formatter",
+    "ejecutable": "FAT32 Formatter.exe",
+    "desc_n": "Formatea memorias USB de más de 32GB al formato universal FAT32.",
+    "desc_e": "[Autor: Ridgecrop] Bypass de la limitación nativa de Windows al formatear volúmenes FAT32 mayores a 32GB."
+  },
+  {
+    "nombre": "MD5 Hasher (Integridad)",
+    "carpeta": "MD5 Hasher-calcula y genera la suma de verificación (checksum) MD5 de un archivo o cadena de texto",
+    "ejecutable": "hasher_64.exe",
+    "desc_n": "Verifica si un archivo es original o si fue alterado por un virus.",
+    "desc_e": "[Autor: Desconocido] Calcula sumas de comprobación MD5 para validación de integridad criptográfica."
+  },
+  {
+    "nombre": "PCI-Z (Info de Hardware)",
+    "carpeta": "PCI-Z-Informacion del PCI,PCI-E,AGP",
+    "ejecutable": "PCI-ZPortable.exe",
+    "desc_n": "Detecta qué componentes físicos están conectados a tu placa madre.",
+    "desc_e": "[Autor: CPUID] Enumera el bus PCI revelando el Vendor ID y Device ID del hardware."
+  },
+  {
+    "nombre": "PNG Optimizer",
+    "carpeta": "PngOptimizer-Optimizar Imagenes",
+    "ejecutable": "PngOptimizerPortable.exe",
+    "desc_n": "Reduce el peso de imágenes PNG drásticamente sin perder calidad.",
+    "desc_e": "[Autor: Psydk] Limpia metadatos innecesarios y optimiza la compresión zlib de archivos PNG."
+  },
+  {
+    "nombre": "RapidCRC (Auditor de Copias)",
+    "carpeta": "RapidCRCUnicode-calcular y verificar la integridad de archivos",
+    "ejecutable": "RapidCRCUnicodePortable.exe",
+    "desc_n": "Verifica que un archivo pesado se haya copiado sin errores.",
+    "desc_e": "[Autor: Open Source] Calcula y valida hashes CRC32/MD5 asíncronamente para integridad de datos."
+  },
+  {
+    "nombre": "SD Card Formatter",
+    "carpeta": "SDFormatter",
+    "ejecutable": "SD Card Formatter.exe",
+    "desc_n": "Formatea y repara tarjetas SD y MicroSD que presentan errores.",
+    "desc_e": "[Autor: SD Association] Restaura la estructura LBA y sistema de archivos estándar de la SDA."
+  },
+  {
+    "nombre": "VMMap (Analizador de RAM)",
+    "carpeta": "VMMap-herramienta de análisis de procesos de memoria virtual y física en tiempo real",
+    "ejecutable": "VMMapPortable.exe",
+    "desc_n": "Muestra exactamente cuánta RAM gasta un programa internamente.",
+    "desc_e": "[Autor: Sysinternals] Analizador de memoria virtual y física, mostrando paginación de procesos."
+  },
+  {
+    "nombre": "Wabbitemu (Emulador TI)",
+    "carpeta": "Wabbitemu-emulador de calculadora graficas de texas instruments ((TI)",
+    "ejecutable": "Wabbitemu.exe",
+    "desc_n": "Simulador de calculadoras científicas Texas Instruments en tu PC.",
+    "desc_e": "[Autor: Wabbitemu Team] Emulador de arquitectura Z80 para cargar ROMs de calculadoras gráficas."
+  },
+  {
+    "nombre": "WhatChanged (Auditor de Cambios)",
+    "carpeta": "WhatChanged-detectar y reportar los cambios que ocurren en el sistema de archivos",
+    "ejecutable": "WhatChangedPortable.exe",
+    "desc_n": "Rastrea qué cambió en tu PC tras instalar un programa nuevo.",
+    "desc_e": "[Autor: Vista Software] Toma snapshots del sistema de archivos y Registro para auditoría diferencial."
+  },
+  {
+    "nombre": "Windows Error Lookup",
+    "carpeta": "WindowsErrorLookupTool-traducir o buscar el significado de los códigos de error",
+    "ejecutable": "WindowsErrorLookupToolPortable.exe",
+    "desc_n": "Traduce los códigos raros de error de Windows a texto comprensible.",
+    "desc_e": "[Autor: NirSoft] Resuelve códigos HRESULT, NTSTATUS y Win32 a strings de descripción nativos."
+  },
+  {
+    "nombre": "BATExpert (Salud de Batería)",
+    "carpeta": "batexpert",
+    "ejecutable": "BatExpert.exe",
+    "desc_n": "Muestra la salud, desgaste y ciclos de carga de la batería de tu laptop.",
+    "desc_e": "[Autor: KC Softwares] Extrae telemetría de celdas Li-Ion mediante ACPI revelando el Wear Level."
+  },
+  {
+    "nombre": "DFG (Desfragmentador)",
+    "carpeta": "dfg-desfragmenta archivos o carpetas específicas o el disco duro completo",
+    "ejecutable": "dfgPortable.exe",
+    "desc_n": "Ordena los archivos en discos duros mecánicos para acelerarlos.",
+    "desc_e": "[Autor: Desconocido] Reorganiza clústeres físicos del disco mejorando la velocidad de lectura contigua."
+  },
+  {
+    "nombre": "Disk2VHD (Clonador a Virtual)",
+    "carpeta": "disk2vhd32",
+    "ejecutable": "disk2vhd.exe",
+    "desc_n": "Convierte tu computadora física real en una máquina virtual.",
+    "desc_e": "[Autor: Sysinternals] Emplea VSS para crear una imagen VHD en caliente de volúmenes físicos."
+  },
+  {
+    "nombre": "DTaskManager",
+    "carpeta": "dtaskmanager",
+    "ejecutable": "DTaskManager.exe",
+    "desc_n": "Un administrador de tareas mucho más agresivo para forzar cierres.",
+    "desc_e": "[Autor: Dimio] Sustituto del Task Manager con capacidades de terminación forzada y bypass de permisos."
+  },
+  {
+    "nombre": "Passcape ISO Burner",
+    "carpeta": "passcape iso burner",
+    "ejecutable": "IsoBurner.exe",
+    "desc_n": "Graba archivos ISO en memorias USB o CDs para hacerlos arrancables.",
+    "desc_e": "[Autor: Passcape] Utilidad stand-alone para despliegue de imágenes ISO evadiendo la API nativa."
+  }
+]
