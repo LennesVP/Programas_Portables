@@ -173,5 +173,19 @@
     "ejecutable": "IsoBurner.exe",
     "desc_n": "Graba archivos ISO en memorias USB o CDs para hacerlos arrancables.",
     "desc_e": "[Autor: Passcape] Utilidad stand-alone para despliegue de imágenes ISO evadiendo la API nativa."
+  },
+  {
+    "nombre": "CrystalMark (Benchmark de Sistema)",
+    "carpeta": "CrystalMark",
+    "ejecutable": "CrystalMark.exe",
+    "desc_n": "Evalúa el rendimiento general de tu PC, midiendo la velocidad de tu procesador, memoria RAM y disco duro.",
+    "desc_e": "[Autor: hiyohiyo / Crystal Dew World] Utilidad de benchmarking sintético que ejecuta pruebas de estrés en ALU, FPU, MEM, HDD y gráficos para medir el rendimiento global."
+  },
+  {
+    "nombre": "CrystalMark Retro (Benchmark Clásico)",
+    "carpeta": "CrystalMark Retro",
+    "ejecutable": "CrystalMark Retro.exe",
+    "desc_n": "Mide la velocidad de tu PC con pruebas clásicas. Ideal para comparar el rendimiento de computadoras modernas con equipos más antiguos.",
+    "desc_e": "[Autor: hiyohiyo / Crystal Dew World] Versión renovada del benchmark de 2004 con soporte multicore moderno. Enfocado en medir el rendimiento de CPU y disco usando cargas de trabajo retro."
   }
 ]
