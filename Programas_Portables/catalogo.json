@@ -187,5 +187,12 @@
     "ejecutable": "CrystalMark Retro.exe",
     "desc_n": "Mide la velocidad de tu PC con pruebas clásicas. Ideal para comparar el rendimiento de computadoras modernas con equipos más antiguos.",
     "desc_e": "[Autor: hiyohiyo / Crystal Dew World] Versión renovada del benchmark de 2004 con soporte multicore moderno. Enfocado en medir el rendimiento de CPU y disco usando cargas de trabajo retro."
+  },
+  {
+    "nombre": "ADB AppControl (Limpieza Android)",
+    "desc_n": "Elimina aplicaciones de fábrica, basura de operadoras y virus imborrables de cualquier celular Android. Requiere activar la 'Depuración USB' en el móvil.",
+    "desc_e": "[ADB Protocol] Interfaz gráfica avanzada para comandos ADB. Permite inhabilitar y desinstalar bloatware del sistema (OEM) conectando el dispositivo por USB sin necesidad de permisos Root.",
+    "carpeta": "ADB_AppControl",
+    "ejecutable": "ADBAppControl.exe"
   }
 ]
