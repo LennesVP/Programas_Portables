@@ -194,5 +194,26 @@
     "desc_e": "[ADB Protocol] Interfaz gráfica avanzada para comandos ADB. Permite inhabilitar y desinstalar bloatware del sistema (OEM) conectando el dispositivo por USB sin necesidad de permisos Root.",
     "carpeta": "ADB_AppControl",
     "ejecutable": "ADBAppControl.exe"
+  },
+  {
+    "nombre": "Wireshark (Sniffer Avanzado)",
+    "desc_n": "El rastreador de tráfico de red más potente del mundo. Analiza a nivel microscópico qué datos exactos están entrando y saliendo de tu PC. (Requiere driver Npcap).",
+    "desc_e": "[Packet Sniffer] Analizador de protocolos. Captura paquetes en vivo en modo promiscuo y realiza inspección profunda (DPI) de cientos de protocolos de red.",
+    "carpeta": "Wireshark",
+    "ejecutable": "WiresharkPortable64.exe"
+  },
+  {
+    "nombre": "Burp Suite (Hacking Web)",
+    "desc_n": "Intercepta, pausa y modifica el tráfico invisible entre tu navegador y una página web. La herramienta estándar de la industria para buscar vulnerabilidades en sitios web.",
+    "desc_e": "[Web Pentesting] Proxy HTTP/S de interceptación local. Permite manipulación de requests y responses en crudo, análisis de tokens de sesión y repetición de ataques.",
+    "carpeta": "BurpSuite",
+    "ejecutable": "BurpSuiteCommunity.exe"
+  },
+  {
+    "nombre": "BloodHound (Auditoría de Redes)",
+    "desc_n": "Mapea redes de oficinas y empresas completas. Descubre relaciones ocultas y permisos mal configurados entre usuarios y servidores (Active Directory).",
+    "desc_e": "[AD Enumeration] Aplicación basada en Electron que utiliza teoría de grafos (Neo4j) para revelar visualmente rutas de ataque y escalada de privilegios en dominios Windows.",
+    "carpeta": "BloodHound",
+    "ejecutable": "BloodHound.exe"
   }
 ]
