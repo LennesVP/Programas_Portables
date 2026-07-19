@@ -1,0 +1,64 @@
+=========================================================================================
+ RIZONESOFT LOGGING VERSION 2.0
+=========================================================================================
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 19/07/2026 04:13:51 ] DATE:                        19/07/2026 04:13:51
+[ 19/07/2026 04:13:51 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1992
+[ 19/07/2026 04:13:51 ] PROGRAM PATH:                [C:\Users\Lennes\Downloads\BiosCodes\BiosCodes_X64.exe]
+[ 19/07/2026 04:13:51 ] COMPILED:                    YES
+[ 19/07/2026 04:13:51 ] WINDOWS VERSION:             WIN_10 
+[ 19/07/2026 04:13:51 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 19/07/2026 04:13:51 ] MEMORY (RAM):                6019.8 MB
+[ 19/07/2026 04:13:51 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 19/07/2026 04:13:51 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 19/07/2026 04:13:52 ] This is a message.
+[ 19/07/2026 04:13:53 ] Error: This is an Error message!
+[ 19/07/2026 04:13:54 ] Warning: This is a Warning!
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 19/07/2026 04:13:59 ] DATE:                        19/07/2026 04:13:59
+[ 19/07/2026 04:13:59 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1992
+[ 19/07/2026 04:13:59 ] PROGRAM PATH:                [C:\Users\Lennes\Downloads\BiosCodes\BiosCodes_X64.exe]
+[ 19/07/2026 04:13:59 ] COMPILED:                    YES
+[ 19/07/2026 04:13:59 ] WINDOWS VERSION:             WIN_10 
+[ 19/07/2026 04:13:59 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 19/07/2026 04:13:59 ] MEMORY (RAM):                6019.8 MB
+[ 19/07/2026 04:13:59 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 19/07/2026 04:13:59 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 19/07/2026 04:14:00 ] This is a message.
+[ 19/07/2026 04:14:01 ] Error: This is an Error message!
+[ 19/07/2026 04:14:02 ] Warning: This is a Warning!
+[ 19/07/2026 04:14:03 ] Success: This message is successful.
+[ 19/07/2026 04:14:04 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 19/07/2026 04:14:15 ] DATE:                        19/07/2026 04:14:15
+[ 19/07/2026 04:14:15 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1992
+[ 19/07/2026 04:14:15 ] PROGRAM PATH:                [C:\Users\Lennes\Downloads\BiosCodes\BiosCodes_X64.exe]
+[ 19/07/2026 04:14:15 ] COMPILED:                    YES
+[ 19/07/2026 04:14:15 ] WINDOWS VERSION:             WIN_10 
+[ 19/07/2026 04:14:15 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 19/07/2026 04:14:15 ] MEMORY (RAM):                6019.8 MB
+[ 19/07/2026 04:14:15 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 19/07/2026 04:14:15 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 19/07/2026 04:14:16 ] This is a message.
+[ 19/07/2026 04:14:17 ] Error: This is an Error message!
