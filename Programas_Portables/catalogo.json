@@ -215,5 +215,12 @@
     "desc_e": "[AD Enumeration] Aplicación basada en Electron que utiliza teoría de grafos (Neo4j) para revelar visualmente rutas de ataque y escalada de privilegios en dominios Windows.",
     "carpeta": "BloodHound",
     "ejecutable": "BloodHound.exe"
+  },
+  {
+    "nombre": "DropIt (Organizador Automático)",
+    "desc_n": "Ordena carpetas desordenadas mágicamente. Arrástrale archivos mezclados y te separará automáticamente las imágenes, documentos y programas en carpetas limpias según tus reglas.",
+    "desc_e": "[Automatización Open Source] Motor de procesamiento por lotes. Utiliza filtros de extensión y Regex para mover, copiar, renombrar o comprimir archivos de forma desatendida y nativa.",
+    "carpeta": "DropIt",
+    "ejecutable": "DropIt.exe"
   }
 ]
