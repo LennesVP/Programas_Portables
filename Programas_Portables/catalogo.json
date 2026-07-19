@@ -222,5 +222,12 @@
     "desc_e": "[Automatización Open Source] Motor de procesamiento por lotes. Utiliza filtros de extensión y Regex para mover, copiar, renombrar o comprimir archivos de forma desatendida y nativa.",
     "carpeta": "DropIt",
     "ejecutable": "DropIt.exe"
+  },
+  {
+    "nombre": "Beep Codes Viewer (Diagnóstico BIOS)",
+    "desc_n": "Diccionario offline que traduce los pitidos de error de la placa base cuando el PC no da video. Te dice exactamente qué pieza está fallando según la marca de la BIOS.",
+    "desc_e": "[Forense Hardware] Base de datos técnica de códigos POST. Intérprete de diagnósticos acústicos para firmwares AMI, Award, Phoenix, Dell, etc., vital para fallos de pre-arranque (No-POST).",
+    "carpeta": "Beep_Codes_Viewer",
+    "ejecutable": "BeepCodesViewer.exe"
   }
 ]
