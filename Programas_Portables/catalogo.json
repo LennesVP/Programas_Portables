@@ -229,5 +229,12 @@
     "desc_e": "[Forense Hardware] Base de datos técnica de códigos POST. Intérprete de diagnósticos acústicos para firmwares AMI, Award, Phoenix, Dell, etc., vital para fallos de pre-arranque (No-POST).",
     "carpeta": "Beep_Codes_Viewer",
     "ejecutable": "BeepCodesViewer.exe"
+  },
+  {
+    "nombre": "Complete Internet Repair (Auto-Fix)",
+    "desc_n": "Repara a fondo problemas de conexión a internet, proxies corruptos por virus, fallos de DNS y problemas con Windows Update en un solo clic.",
+    "desc_e": "[Forense Redes] Interfaz gráfica (GUI) virtualizada con VMware. Agrupa comandos nativos de reparación de red (netsh, ipconfig, flushdns) y purga de registros de red y proxy.",
+    "carpeta": "Complete_Internet_Repair",
+    "ejecutable": "CompleteInternetRepair.exe"
   }
 ]
